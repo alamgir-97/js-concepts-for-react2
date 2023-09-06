@@ -1,0 +1,1 @@
+alert("This is the test alert for fundamentals-js-concepts-for-react2")
